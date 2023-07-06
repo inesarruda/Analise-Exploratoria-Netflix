@@ -17,4 +17,4 @@
 
 ![image](https://github.com/inesarruda/Analise-Exploratoria-Netflix/assets/112672449/46af7562-2462-4f52-80be-2fefe76e9e68)
 
-## Há diversas outras análises que podem ser vistas no jupyter notebook  "Base_dados_Netflix_Grupo07.ipynb".
+## Há diversas outras análises que podem ser vistas no jupyter notebook  "Netflix_Análise_Exploratoria.ipynb".
