@@ -2,9 +2,9 @@
 🍿 Exploratory Data Analysis of a Netflix Dataset
 
 ## Análise exploratória de Dataset do netflix
-<img  src = "https://github.com/inesarruda/Analise-Exploratoria-Netflix/assets/112672449/a32f8042-7a91-4d3f-9a71-f8d380ac87bc" width= "500px"/>
+<img  src = "https://github.com/inesarruda/Analise-Exploratoria-Netflix/assets/112672449/a32f8042-7a91-4d3f-9a71-f8d380ac87bc" width= "400px"/>
 
-## Foi utilizado um dataset com diversos dados do netflix. Fora realizadas algumas análises como:
+## Foi utilizado um dataset com diversos dados do netflix. Foram realizadas algumas análises como:
 * Valores nulos
 * O ano de lançamento mais antiga
 * O ano de lançamento mais nova
